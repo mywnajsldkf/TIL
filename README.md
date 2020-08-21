@@ -19,3 +19,4 @@
 ### Python
 
 - [자료형 정리]([https://github.com/mywnajsldkf/TIL/blob/master/Python/%EC%9E%90%EB%A3%8C%ED%98%95.md](https://github.com/mywnajsldkf/TIL/blob/master/Python/자료형.md))
+
