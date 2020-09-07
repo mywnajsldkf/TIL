@@ -20,5 +20,7 @@
 
 - [자료형 정리](https://github.com/mywnajsldkf/TIL/blob/master/Python/자료형.md)
 
-- [@staticmethod와 @classmethod]([https://github.com/mywnajsldkf/TIL/blob/master/Python/%40classmethod%EC%99%80%20%40staticmethod%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md](https://github.com/mywnajsldkf/TIL/blob/master/Python/%40classmethod와 %40staticmethod의 차이.md))
+- [@staticmethod와 @classmethod](https://github.com/mywnajsldkf/TIL/blob/master/Python/%40classmethod%EC%99%80%20%40staticmethod%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
+  
 
