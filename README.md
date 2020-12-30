@@ -24,8 +24,8 @@
 
 ### C/C++
 
-- [switch 문에서 문자열 사용하기](C/C++/[C/C++] switch 문에서 문자열 사용하기.md)
-- [랜덤함수가 진짜 랜덤일까?]([C/C++] 랜덤함수가 진짜 랜덤일까?.md)
+- [switch 문에서 문자열 사용하기](https://github.com/mywnajsldkf/TIL/blob/master/C:C%2B%2B/%5BC:C%2B%2B%5D%20switch%20%EB%AC%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [랜덤함수가 진짜 랜덤일까?](https://github.com/mywnajsldkf/TIL/blob/master/C:C%2B%2B/%5BC:C%2B%2B%5D%20%EB%9E%9C%EB%8D%A4%ED%95%A8%EC%88%98%EA%B0%80%20%EC%A7%84%EC%A7%9C%20%EB%9E%9C%EB%8D%A4%EC%9D%BC%EA%B9%8C%3F.md)
 
 
 
@@ -39,5 +39,5 @@
 
 ### Git/Github
 
-- [Git cherry-pick 사용법](git/github/[git/github] Git cherry-pick 사용법)
+- [Git cherry-pick 사용법](https://github.com/mywnajsldkf/TIL/blob/master/git:github/%5Bgit:github%5D%20Git%20cherry-pick%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
