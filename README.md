@@ -18,9 +18,9 @@
 
 - [Algorithm](#Algorithm)
 
-- [C/C++](#C/C++)
+- [C/C++](#cc)
 - [Python](#Python)
-- [Git/Github](#Git/Github)
+- [Git/Github](#gitgithub)
 
 
 
