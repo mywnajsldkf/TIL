@@ -16,8 +16,28 @@
 
 ## 분류
 
+### Algorithm
+
+- [4673](Algorithm/4673.md)
+
+
+
+### C/C++
+
+- [switch 문에서 문자열 사용하기](C/C++/[C/C++] switch 문에서 문자열 사용하기.md)
+- [랜덤함수가 진짜 랜덤일까?]([C/C++] 랜덤함수가 진짜 랜덤일까?.md)
+
+
+
 ### Python
 
 - [자료형 정리](https://github.com/mywnajsldkf/TIL/blob/master/Python/자료형.md)
 - [@staticmethod와 @classmethod](https://github.com/mywnajsldkf/TIL/blob/master/Python/%40classmethod%EC%99%80%20%40staticmethod%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [map](https://github.com/mywnajsldkf/TIL/blob/master/Python/Map.md)
+
+
+
+### Git/Github
+
+- [Git cherry-pick 사용법](git/github/[git/github] Git cherry-pick 사용법)
+
