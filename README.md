@@ -22,7 +22,9 @@
 - [Python](#Python)
 - [Git/Github](#gitgithub)
 
+- [Control](#Control)
 
+  
 
 ## 분류
 
@@ -51,7 +53,19 @@
 
 - [Git cherry-pick 사용법](https://github.com/mywnajsldkf/TIL/blob/master/git:github/%5Bgit:github%5D%20Git%20cherry-pick%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
+- [서브모듈이란?](https://github.com/mywnajsldkf/TIL/blob/master/git:github/submodules.md)
+
+  
+
+### Control
+
+- [PID 제어란?](https://github.com/mywnajsldkf/TIL/blob/master/Control/PID%20Control.md)
+
 
 
 ### 문제 해결
+
+
+
+### 
 
