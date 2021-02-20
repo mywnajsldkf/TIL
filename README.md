@@ -31,8 +31,10 @@
 ### Algorithm
 
 - [4673](Algorithm/4673.md)
-
 - [1193](Algorithm/1193.md)
+- [10250](Algorithm/10250.md)
+
+
 
 ### C/C++
 
