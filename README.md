@@ -49,6 +49,7 @@
 - [@staticmethod와 @classmethod](https://github.com/mywnajsldkf/TIL/blob/master/Python/%40classmethod%EC%99%80%20%40staticmethod%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [map](https://github.com/mywnajsldkf/TIL/blob/master/Python/Map.md)
 - [python](Python/python.md)
+- [numpy](Python/numpy.md)
 
 
 
