@@ -19,10 +19,14 @@
 - [Algorithm](#Algorithm)
 
 - [C/C++](#cc)
+
 - [Python](#Python)
+
 - [Git/Github](#gitgithub)
 
 - [Control](#Control)
+
+- [Pytorch](#Pytorch)
 
   
 
@@ -68,7 +72,9 @@
 
 
 
-### 문제 해결
+### Pytorch
+
+- [[예제2-1] 사람의 손글씨 데이터인 MNIST를 이용해 Multi Layer Perceptron(MLP) 설계하기](pytorch/MultiLayerPerceptron.md)
 
 
 
