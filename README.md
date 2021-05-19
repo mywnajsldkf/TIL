@@ -55,6 +55,7 @@
 - [map](https://github.com/mywnajsldkf/TIL/blob/master/Python/Map.md)
 - [python](Python/python.md)
 - [numpy](Python/numpy.md)
+- [class1](Python/class1.md)
 
 
 
