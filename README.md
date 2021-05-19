@@ -4,7 +4,7 @@
 - 나만의 속도로 꾸준히 하자
 - [jbj616](https://github.com/jbj616/TIL)님과 [namjunemy](https://github.com/namjunemy/TIL)님의 Github TIL을 보고 영감을 얻음
 
-
+*질문이나 의견등은 [Issue](https://github.com/mywnajsldkf/TIL/issues)를 이용해주시면 감사하겠습니다 :)*
 
 ## 작성 규칙
 
